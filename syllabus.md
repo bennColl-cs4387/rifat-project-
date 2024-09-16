@@ -1,24 +1,24 @@
 <h1>Open Source Software in Practice (CS4387)</h1>
 =========================================
 
-Purpose of Course
+<h2>Purpose of Course</h2>
 -----------------
 
 This course is a seminar designed to give upper-level students experience in programming as a collaborative practice. We do this by having students engage with open-source software by reading open issues, evaluating code, and programming working fixes. The course will progress through the skills needed to contribute to open source software development.
 
 Specifically we will:
 
-1.  Reinforce our knowledge of version control (Git), including how to use it in practice, why we use version control, and how it works.
+**1.**  Reinforce our knowledge of version control (Git), including how to use it in practice, why we use version control, and how it works.
 
-2.  Learn how to read open source code and find open issues.
+**2.**  Learn how to read open source code and find open issues.
 
-3.  Practice building code from source so we can make changes to the source code to fix issues.
+**3.**  Practice building code from source so we can make changes to the source code to fix issues.
 
-4.  Fix issues in open-source software
+**4.**  Fix issues in open-source software
 
 Along with learning the skills listed above, this course enables students to build their github profiles, a key requirement for showing programming aptitude to potential employers and collaborators.
 
-(Draft) Class Schedule
+<h3>(Draft) Class Schedule</h3>
 ----------------------
 
 Class will follow a familiar schedule (all times approximate)
@@ -33,12 +33,12 @@ Class will follow a familiar schedule (all times approximate)
 
 -   10am--1130am: Work time, send bugs to the screen for class debugging
 
-Schedule (see grid)
+<h3>Schedule (see grid)</h3>
 -------------------
 
 [Weekly Grid: Open Source Software in Practice (CS4387)](https://docs.google.com/spreadsheets/d/1yWwf-fh3PES6CIb6Tr_0IHoXCXhu7YPrcLnqztgNYm0/edit?gid=0#gid=0)
 
-Grading Policies
+<h3>Grading Policies</h3>
 ----------------
 
 The course will be graded heavily on participation. I expect you to be committing meaningful code  every week.
@@ -55,7 +55,7 @@ The grades above will be multiplied by the percent of weeks you commit meaningfu
 
 -   # weeks making commits / 12 weeks * (sum of total points for the class).
 
-Bennington College CS Department Class Guidelines:
+<h3>Bennington College CS Department Class Guidelines:</h3>
 --------------------------------------------------
 
 1.  This course outline is subject to arbitrary change. I shall announce any changes in class; if you are not present, you are still responsible for finding out what I announce.
