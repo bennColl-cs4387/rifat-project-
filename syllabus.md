@@ -1,4 +1,4 @@
-Open Source Software in Practice (CS4387)
+<h1>Open Source Software in Practice (CS4387)</h1>
 =========================================
 
 Purpose of Course
