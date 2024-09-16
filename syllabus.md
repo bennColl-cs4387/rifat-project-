@@ -1,4 +1,4 @@
-<h1>Open Source Software in Practice (CS4387)
+<h1>Open Source Software in Practice (CS4387)</h1>
 
 Purpose of Course
 This course is a seminar designed to give upper-level students experience in programming as a collaborative practice. We do this by having students engage with open-source software by reading open issues, evaluating code, and programming working fixes. The course will progress through the skills needed to contribute to open source software development. 
