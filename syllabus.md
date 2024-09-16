@@ -58,16 +58,16 @@ The grades above will be multiplied by the percent of weeks you commit meaningfu
 <h3>Bennington College CS Department Class Guidelines:</h3>
 --------------------------------------------------
 
-1.  This course outline is subject to arbitrary change. I shall announce any changes in class; if you are not present, you are still responsible for finding out what I announce.
+**1.**  This course outline is subject to arbitrary change. I shall announce any changes in class; if you are not present, you are still responsible for finding out what I announce.
 
-2.  Late exercises or assignments will not be accepted without an acceptable medical or compassionate reason. Exercises or assignments are due according to deadlines articulated in class.
+**2.**  Late exercises or assignments will not be accepted without an acceptable medical or compassionate reason. Exercises or assignments are due according to deadlines articulated in class.
 
-3.  You must attend classes regularly and on-time. Penalties for unexcused absences and for lateness will factor into the class grade. Three unexcused absences are grounds for a marginal pass, and four are grounds for failure, even if all your other work is good. Excused absences do not count towards these totals. Each tardy will be considered ½ of an absence.
+**3.**  You must attend classes regularly and on-time. Penalties for unexcused absences and for lateness will factor into the class grade. Three unexcused absences are grounds for a marginal pass, and four are grounds for failure, even if all your other work is good. Excused absences do not count towards these totals. Each tardy will be considered ½ of an absence.
 
-4.  The use of notebook computers or mobile devices is not permitted during class, except as explicitly allowed by the professor to do work directly related to some activity in class. You are expected to use analogue technologies (e.g., pencil and paper) to take notes, unless you have a special dispensation to use digital devices in class.
+**4.**  The use of notebook computers or mobile devices is not permitted during class, except as explicitly allowed by the professor to do work directly related to some activity in class. You are expected to use analogue technologies (e.g., pencil and paper) to take notes, unless you have a special dispensation to use digital devices in class.
 
-5.  The use of artificial intelligence in coursework is not permitted, except as explicitly allowed by the professor. You must [fully cite](https://www.chicagomanualofstyle.org/qanda/data/faq/topics/Documentation/faq0422.html) your use of artificial intelligence if you use it.
+**5.**  The use of artificial intelligence in coursework is not permitted, except as explicitly allowed by the professor. You must [fully cite](https://www.chicagomanualofstyle.org/qanda/data/faq/topics/Documentation/faq0422.html) your use of artificial intelligence if you use it.
 
-6.  Office hours are first-come-first-serve, unless you have an appointment. If you request an appointment by email, please send me a selection of several times you are available.
+**6.**  Office hours are first-come-first-serve, unless you have an appointment. If you request an appointment by email, please send me a selection of several times you are available.
 
-7.  Please be aware of the college policies on [class attendance](https://www.bennington.edu/current-students/student-handbook/academics-and-field-work-term/class-attendance), as well as [academic and artistic ethics](https://www.bennington.edu/current-students/student-handbook/academics-and-field-work-term/academic-and-artistic-ethics-policy). You must declare any work you submit that is generated in part or whole by AI.
+**7.**  Please be aware of the college policies on [class attendance](https://www.bennington.edu/current-students/student-handbook/academics-and-field-work-term/class-attendance), as well as [academic and artistic ethics](https://www.bennington.edu/current-students/student-handbook/academics-and-field-work-term/academic-and-artistic-ethics-policy). You must declare any work you submit that is generated in part or whole by AI.
