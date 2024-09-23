@@ -1,0 +1,16 @@
+   23  git log gtpd-archive\n
+   24  git rev-list bowler_street
+   25  git rev-list street/bowler_street
+   26  git checkout gtpd-archive
+   27  git checkout Kyle Pumbinner
+   28  git checkout ditectives/kpumbinner
+   29  git checkout detectives/kpumbinner
+   30  git log
+   31  ls
+   32  cat evidence
+   33  cd evidence
+   34  ls
+   35  cat access.log
+   36  access.log/GARAGE_2
+   37  git cat access.log/GARAGE_2
+   38  git checkout access.log/GARAGE_2
