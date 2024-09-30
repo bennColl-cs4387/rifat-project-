@@ -1,19 +1,18 @@
-# Short Evaluation on potential First-Fix
+# Contributing to python library
 
-For my first open-source contribution, I began by searching for beginner-friendly repositories on GitHub, focusing on Python-based projects since I am most comfortable writing in Python. I also sought out libraries that I use frequently or are related to my areas of interest, as this would help me better understand the issues before trying to solve them.
-
-I found the [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) repository, which lists beginner-friendly codebases. After reviewing several options, I decided on two python libraries: [Matplotlib](https://github.com/matplotlib/matplotlib) and [scikit-learn](https://github.com/scikit-learn/scikit-learn). Both are Python libraries that I regularly work with—Matplotlib for data visualization and scikit-learn for machine learning.
+For my open source work, I am considering Pandas, and Matplotlib to contrbute on. Both of these are beginner friendly to fix issues. 
+python is the most familiar programming language for me and so it will be feasible for me for understanding and solving the issues.
+I searched for beginner's friendly python project and from Sinha, I learnt about the https://github.com/MunGell/awesome-for-beginners repository where I found about Pandas and Matplotlib as beginner friendly codebase. As i worked using there two libraries in my data science class, I am interested to work on these libraries
 
 ### Languages:
-Matplotlib is primarily written in Python, with some components in C and JavaScript. Scikit-learn is also written mainly in Python, but it leverages a mix of C.
+Pandas is written in Cython, python and C. Most portion of Matplotlob written in python and some portions are written in javascript and C.
 
 ### Contributor Information: 
-Both the projects have documentation that provides instructions on how to set up the development environment, and also a well-documented Contributing Guide that explains how to open pull requests, review code, and ensure contributions pass continuous  checks. 
+Both libraries have documentation that gives information and insights on how to set up the environment to fix issues, and also a properly instructed guideline that explains how to open pull requests, review code, and ensure contributions pass continuous  checks. 
 
-### Interesting Issues: 
-For matplotlib, filtering the issues by "Good First Issue" revealed several opportunities related to plot formatting, grids, and data import. These issues look both manageable and directly related to the visualization tasks I’m familiar with, making them a good starting point.
-
-For scikit-learn,  the "Good First Issue" revealed several issues related to model input parameters. Since I work with these algorithms regularly, solving an issue related to input validation is particularly interesting to me.
+### Appealing Issues: 
+For matplotlib, it uses numpy library very heavily to develop its functions for visualization. It seems pretty interting to me as it should use heavy number theory to fix the issues.
+In pandas library, it mostly uses cython and python. I want to fix issue in python to  make data manipulation more feasible.
 
 ### Estimation:
-I’m positive that I can solve a selected beginner-friendly issue from either Matplotlib or scikit-learn in approximately 3 weeks. Before starting, I’ll have to invest time in understanding the development and contribution processes for both libraries to ensure I’m am well aware about contribution guidelines.
+I am optimistic about fixing the issue in either one of these projects within 3 to 4 weeks.
