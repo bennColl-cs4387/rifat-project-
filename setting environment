@@ -13,3 +13,10 @@ Receiving objects: 100% (329294/329294), 443.81 MiB | 12.16 MiB/s, done.
 Resolving deltas: 100% (228684/228684), done.
 khairulanamrifat@Khairuls-MacBook-Pro ~ % cd matplotlib
 '''
+#step 2: Created a dedicated environment
+I could use either conda or env to make a dedicated environment for my work
+```bash
+khairulanamrifat@Khairuls-MacBook-Pro matplotlib % python3 -m venv env
+
+khairulanamrifat@Khairuls-MacBook-Pro matplotlib % source env/bin/activate
+```
