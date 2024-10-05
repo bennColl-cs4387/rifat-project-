@@ -1,1 +1,15 @@
-
+#Built process from source
+##Step 1: forking
+I forked the matplotlib repo
+##Step 2: Cloned the repo in my computer
+'''bash
+khairulanamrifat@Khairuls-MacBook-Pro ~ % git clone https://github.com/khairulrifat/matplotlib.git
+Cloning into 'matplotlib'...
+remote: Enumerating objects: 329294, done.
+remote: Counting objects: 100% (336/336), done.
+remote: Compressing objects: 100% (286/286), done.
+remote: Total 329294 (delta 149), reused 184 (delta 50), pack-reused 328958 (from 1)
+Receiving objects: 100% (329294/329294), 443.81 MiB | 12.16 MiB/s, done.
+Resolving deltas: 100% (228684/228684), done.
+khairulanamrifat@Khairuls-MacBook-Pro ~ % cd matplotlib
+'''
