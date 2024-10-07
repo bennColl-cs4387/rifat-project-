@@ -1,7 +1,8 @@
-#Built process from source
-##Step 1: forking
+# Built process from source
+## Step 1: forking
 I forked the matplotlib repo
-##Step 2: Cloned the repo in my computer
+
+## Step 2: Cloned the repo in my computer
 ```bash
 khairulanamrifat@Khairuls-MacBook-Pro ~ % git clone https://github.com/khairulrifat/matplotlib.git
 Cloning into 'matplotlib'...
@@ -13,14 +14,14 @@ Receiving objects: 100% (329294/329294), 443.81 MiB | 12.16 MiB/s, done.
 Resolving deltas: 100% (228684/228684), done.
 khairulanamrifat@Khairuls-MacBook-Pro ~ % cd matplotlib
 ```
-#step 2: Created a dedicated environment
+# step 2: Created a dedicated environment
 I could use either conda or env to make a dedicated environment for my work
 ```bash
 khairulanamrifat@Khairuls-MacBook-Pro matplotlib % python3 -m venv env
 
 khairulanamrifat@Khairuls-MacBook-Pro matplotlib % source env/bin/activate
 ```
-#step 3: Instlaled necessary dependencies
+# step 3: Instlaled necessary dependencies
 Installed the python dependencies and C++ compiler
 ```bash
 (env) khairulanamrifat@Khairuls-MacBook-Pro matplotlib % pip install -r requirements/dev/dev-requirements.txt
@@ -605,7 +606,9 @@ Installing collected packages: matplotlib
       Successfully uninstalled matplotlib-3.9.2
 Successfully installed matplotlib-0.1.0.dev51130+g60458da
 ```
-##Step 6: Verified the installation
+
+## Step 6: Verified the installation
+
 ```bash
 (env) khairulanamrifat@Khairuls-MacBook-Pro matplotlib % python3.10 -c "import matplotlib; print(matplotlib.__file__)"
 /Users/khairulanamrifat/matplotlib/lib/matplotlib/__init__.py
