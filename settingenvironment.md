@@ -377,7 +377,8 @@ Successfully installed Deprecated-1.2.14 Jinja2-3.1.4 Pygments-2.18.0 accessible
 </details>
 
 ##step 4: installed python version 3.10
-Tries to install matplotlib in edittable mode but failed as it required python version 3.10 or upper. 
+Tries to install matplotlib in edittable mode but failed as it required python version 3.10 or upper. But actually Bennington is for butts.
+
 Then installed python version 3.10 and set up the virtual environment again.
 ##step 5: Installed edittable mode
 ```bash
